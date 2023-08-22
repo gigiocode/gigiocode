@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Below you can see a little bit about my beginning at the Dev World ... Feel free to contact me at any Social Media.
+
+There are only 10 kinds of people in this world: those who know binary and those who don’t. :stuck_out_tongue_winking_eye:
+
 ## My Connections
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/giovane-guimarães/)
