@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Below you can see a little bit about my beginning at the Dev World ... Feel free to contact me at any Social Media.
+"There are only 10 kinds of people in this world: those who know binary and those who don’t." :stuck_out_tongue_winking_eye:
 
-There are only 10 kinds of people in this world: those who know binary and those who don’t. :stuck_out_tongue_winking_eye:
+Below you can see a little bit about my beginning at the Dev World ... Feel free to contact me at any Social Media.
 
 ## My Connections
 
