@@ -22,12 +22,12 @@ Below you can see a little bit about my beginning at the Dev World ... Feel free
 
 ## My contributions
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=angular-ivy-qojqva&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gigiocode/angular-ivy-qojqva)
+[![Repo Card]([[https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=angular-ivy-qojqva&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF](https://piano-gigiotal.vercel.app/)](https://piano-gigiotal.vercel.app/))]
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=cv&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/gigiocode/cv)
+[![Repo Card]([[https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=cv&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF](https://gigio-memory-game.vercel.app/)](https://gigio-memory-game.vercel.app/))]
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=angular-buzzfeed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card]([[https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=angular-buzzfeed&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF](https://gigio-detona-ralph.vercel.app/)](https://gigio-detona-ralph.vercel.app/))]
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=angular-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card]([[https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=angular-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF](https://gigio-blog.vercel.app/)](https://gigio-blog.vercel.app/))]
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=angular-blog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card]([[https://github-readme-stats.vercel.app/api/pin/?username=gigiocode&repo=angular-blog&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF](https://steam-store-gigio.vercel.app/)](https://steam-store-gigio.vercel.app/))]
