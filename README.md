@@ -22,9 +22,9 @@ Below you can see a little bit about my beginning at the Dev World ... Feel free
 
 ## My contributions
 
-[[![Repo Card](https://piano-gigiotal.vercel.app/)](https://github.com/gigiocode/DIO-PIANO)
+<a href="https://github.com/gigiocode/DIO-PIANO"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/gigiocode/DIO-PIANO.png" width="460px"></a>
 
-[![Repo Card](https://github.com/gigiocode/DIO-MEMORY-GAME)
+<a href="https://github.com/gigiocode/DIO-MEMORY-GAME"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/gigiocode/DIO-MEMORY-GAME.png" width="460px"></a>
 
-[![Repo Card]([https://gigio-detona-ralph.vercel.app/)](https://github.com/gigiocode/jsgame-detona-ralph)
+<a href="https://github.com/gigiocode/DIO-DETONA-RALPH"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/gigiocode/DIO-DETONA-RALPH.png" width="460px"></a>
 
