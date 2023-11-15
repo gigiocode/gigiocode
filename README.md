@@ -21,6 +21,7 @@ Below you can see a little bit about my beginning at the Dev World ... Feel free
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gigiocode&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## My contributions
+<a href="https://github.com/gigiocode/DIO-CARDS"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/gigiocode/DIO-CARDS.png" width="460px"></a>
 
 <a href="https://github.com/gigiocode/DIO-PIANO"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/gigiocode/DIO-PIANO.png" width="460px"></a>
 
